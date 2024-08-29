@@ -9,7 +9,7 @@ const Card = () => {
   return (
     <div>
         <select onChange={(e)=>handleSelectChange(e)} name="" id="">
-            <option value="">--Select--</option>
+            <option value="https://www.pickfu.com/blog/wp-content/uploads/2019/09/test3.jpeg">--Select--</option>
             <option value="https://www.pickfu.com/blog/wp-content/uploads/2019/09/test3.jpeg">Jea Sree</option>
             <option value="https://www.mockupdaddy.com/wp-content/uploads/edd/2020/08/Premium-Cosmetic-Psd-Products-Mockup.png">Cosmetic</option>
             <option value="https://images.wondershare.com/pixcut/assets/blog/product-images-for-ecommerce-sitse-3.jpg">Rudys</option>
